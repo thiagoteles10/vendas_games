@@ -1,17 +1,20 @@
 
-![logo da olay games](https://user-images.githubusercontent.com/93038796/202255149-a2b579cf-9cde-43a4-80ca-4e16cb96bb72.jpg)
+<p>
+<img src="https://user-images.githubusercontent.com/93038796/202718441-4ae9dc52-b3d3-4702-95b4-9c47d95502fe.jpg" align="left" alt="some text" width=300 height=200 >
 
-#<h1 align='center'>💻 Sobre o projeto</h1>
+<h1 align='center'>💻 Sobre o projeto</h1>
+</p>
 
 ###   Visa esclarecer para os vendedores do universo Game, quais os jogos e plataformas mais arrecadam ao redor do mundo, oferecendo assim um resumo detalhado sobre em qual Game e plataforma investir.
 
-## O conjunto de dados analisados contém uma lista de jogos com vendas maiores que 1.000.000 de cópias
+### O conjunto de dados analisados contém uma lista de jogos com vendas maiores que 1.000.000 de cópias
+
 
 ![image](https://user-images.githubusercontent.com/93038796/202220312-610e6023-7cfb-45b3-b365-5158bdf2264e.png)
 ![image](https://img.shields.io/badge/release%20date-%20november-yellowgreen)
 
 
-O projeto visa esclarecer para as lojas responsáveis pela vendas de Games os seguintes tópicos:
+## O projeto visa esclarecer para as lojas responsáveis pela vendas de Games os seguintes tópicos:
 
 1- Qual jogo tem o maior preço de venda
 
