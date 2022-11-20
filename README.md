@@ -73,19 +73,12 @@
 # 🛠️ Tecnologia e Bibliotecas utilizadas
 -----
 ![image](https://img.shields.io/badge/*******-Python-brightgreen)
-
 ![image](https://img.shields.io/badge/****-Pandas-brightgreen)
-
 ![image](https://img.shields.io/badge/****-Seaborn-brightgreen)
-
 ![image](https://img.shields.io/badge/****-Mataplotlib-brightgreen)
-
 ![image](https://img.shields.io/badge/****-Missingno-brightgreen)
-
 ![image](https://img.shields.io/badge/****-Numpy-brightgreen)
 
-## Qual jogo tem o maior preço de venda?
 
-![image](https://user-images.githubusercontent.com/93038796/202921640-93c86bff-ac0c-41a2-9a26-df97fa9be112.png)
 
 
